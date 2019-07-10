@@ -1,0 +1,1 @@
+this is a html page with background animation created using css. its a light weight and pretty looking page.
